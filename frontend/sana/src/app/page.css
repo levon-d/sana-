@@ -1,0 +1,9 @@
+.horizontal-scroll {
+    display: flex;
+    overflow-x: auto;
+    gap: 1rem; /* Adjust the gap between cards as needed */
+  }
+  
+  .horizontal-scroll .card {
+    min-width: 300px; /* Adjust the minimum width of each card as needed */
+  }
